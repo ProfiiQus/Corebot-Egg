@@ -1,6 +1,6 @@
 # Corebot Egg
 
-A [Pterodactyl](https://pterodactyl.io/) Egg for the [Corebot](https://www.mc-market.org/resources/8501/) Premium Discord bot. Runs on NodeJS 12, basically just downloads a pre-compiled Sodium package.  
+A [Pterodactyl](https://pterodactyl.io/) Egg for [Corebot](https://www.mc-market.org/resources/8501/), a premium Discord bot. I re-created this egg, as the official one was not working due to downloading an already unaccessible content.
 
 ## Installation
 
