@@ -6,8 +6,8 @@ A [Pterodactyl](https://pterodactyl.io/) Egg for the [Corebot](https://www.mc-ma
 
 1. Go to the **Nests** section in your Pterodactyl Administration panel.
 2. Create a new Nest, with the **Create new** button, call it 'Discord'.
-3. Click **Import Egg**, import the egg-corebot.json file from this repository and select **Discord** as the Associated Nest.
-4. Restart the Wings service on your Linux system - to acknowledge the newly imported egg. (`service wings restart`).
+3. Click **Import Egg**, import the [egg-corebot.json](https://github.com/ProfiiQus/Corebot-Egg/blob/main/egg-corebot.json) and select **Discord** as the Associated Nest.
+4. Restart the Wings service on your Linux system (`service wings restart`).
 
 ## Setting up a Corebot service
 
